@@ -1,0 +1,7 @@
+dataset,method,spearman_rho,n_compounds_test
+ld50,pairwise,0.2965,1478
+ld50,pointwise,0.4023,1478
+caco2,pairwise,0.4108,182
+caco2,pointwise,0.563,182
+solubility,pairwise,0.2742,1997
+solubility,pointwise,0.6295,1997

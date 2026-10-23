@@ -1,0 +1,51 @@
+Drug_ID,Drug,Y
+"10H-Phenothiazine, 10-(3-(4-methyl-1-piperazinyl)propyl)-",CN1CCN(CCCN2c3ccccc3Sc3ccccc32)CC1,2.832
+"1,4:7,10-Dimethanodibenzo(a,e)cyclooctane, 1,2,3,4,7,8,9,10,13,13,14,14-dodecachloro-1,4,4a,5,6,6a,7,10,10a,11,12,12a-dodecahydro-",ClC1=C(Cl)C2(Cl)C3CCC4C(CCC3C1(Cl)C2(Cl)Cl)C1(Cl)C(Cl)=C(Cl)C4(Cl)C1(Cl)Cl,1.4169999999999998
+"Carbamic acid, methyl(methylthio)-, 2,3-dihydro-2,2-dimethyl-7-benzofuranyl ester",CSN(C)C(=O)Oc1cccc2c1OC(C)(C)C2,4.728
+"1,4,7,10,13,16-Hexanoxacyclooctadecane",C1COCCOCCOCCOCCOCCO1,2.279
+"Diazene, diphenyl-",c1ccc(N=Nc2ccccc2)cc1,2.261
+"1-Piperazineacetic acid, 4-methyl-, ((5-nitro-2-furanyl)methylene)hydrazide (9CI)",CN1CCN(CC(=O)NN=Cc2ccc([N+](=O)[O-])o2)CC1,2.475
+"2-Propenoic acid, 1,2-ethanediyl ester",C=CC(=O)OCCOC(=O)C=C,2.754
+"1,3-Butadiene",C=CC=C,0.994
+2-Propanone,CC(C)=O,1.001
+n-Hexane,CCCCCC,0.477
+"Hexanedioic acid, dibutyl ester",CCCCOC(=O)CCCCC(=O)OCCCC,1.3019999999999998
+"Methane, chloro-",CCl,1.4480000000000002
+"Ethanedioic acid, 1,2-diethyl ester",CCOC(=O)C(=O)OCC,2.563
+"Phosphoric acid, triethyl ester",CCOP(=O)(OCC)OCC,2.056
+"Phosphorodithioic acid, S,S'-methylene O,O,O',O'-tetraethyl ester",CCOP(=S)(OCC)SCSP(=S)(OCC)OCC,4.471
+"Ethanimidothioic acid, N-(((methylamino)carbonyl)oxy)-, methyl ester (9CI)",CNC(=O)ON=C(C)SC,3.98
+"Phosphoric acid, trimethyl ester",COP(=O)(OC)OC,2.222
+Butanedinitrile,N#CCCC#N,2.25
+Butanedioic acid,O=C(O)CCC(=O)O,1.7180000000000002
+"Ethanol, 2,2'-(1,2-ethanediylbis(oxy))bis-",OCCOCCOCCO,0.946
+"3-Heptanone, 5-methyl-, oxime",CCC(CC(C)CC)=NO,1.5759999999999998
+"Trimethylamine, in aqueous solution",CN(C)C,2.073
+"Ethanesulfonamide, 2-((((2-chloroethyl)nitrosoamino)carbonyl)amino)-N,N-dimethyl-",CN(C)S(=O)(=O)CCNC(=O)N(CCCl)N=O,3.866
+"Phosphorothioic acid, O,O,S-triethyl ester",CCOP(=O)(OCC)SCC,3.866
+"Benzene, pure",c1ccccc1,1.3730000000000002
+"Acetamide, N-phenyl-",CC(=O)Nc1ccccc1,2.228
+"Benzene, 2-methyl-1,3,5-trinitro-",Cc1c([N+](=O)[O-])cc([N+](=O)[O-])cc1[N+](=O)[O-],2.456
+"Benzene, 1,4-dimethyl-",Cc1ccc(C)cc1,1.327
+"2-Propenoic acid, 3-phenyl-, ethyl ester",CCOC(=O)C=Cc1ccccc1,1.644
+"Phosphonodithioic acid, ethyl-, S-(4-chlorophenyl) O-ethyl ester",CCOP(=S)(CC)Sc1ccc(Cl)cc1,4.939
+"Phosphorothioic acid, O-(2,4-dichlorophenyl) O,O-diethyl ester",CCOP(=S)(OCC)Oc1ccc(Cl)cc1Cl,3.263
+"Benzene, 1-chloro-2,4-dinitro-",O=[N+]([O-])c1ccc(Cl)c([N+](=O)[O-])c1,2.277
+"Benzene, 1,2,4,5-tetrachloro-",Clc1cc(Cl)c(Cl)cc1Cl,2.158
+"Benzene, 1,4-dichloro-",Clc1ccc(Cl)cc1,2.468
+"1-Triazene, 3,3-dimethyl-1-phenyl- (9CI)",CN(C)N=Nc1ccccc1,2.682
+"Carbamic acid, methyl-, phenyl ester",CNC(=O)Oc1ccccc1,2.447
+Hydroquinone dimethyl ether,COc1ccc(OC)cc1,1.584
+"Phosphorothioic acid, O,O-dimethyl O-(4-nitrophenyl) ester",COP(=S)(OC)Oc1ccc([N+](=O)[O-])cc1,4.641
+"Benzene, 1,3,5-trinitro-",O=[N+]([O-])c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1,2.881
+Benzoic acid,O=C(O)c1ccccc1,1.856
+"Acetic acid, (2,4-dichlorophenoxy)-",O=C(O)COc1ccc(Cl)cc1Cl,2.77
+"1,4-Benzenediol",Oc1ccc(O)cc1,2.537
+"Ethanol, 2,2'-(phenylimino)bis-",OCCN(CCO)c1ccccc1,2.267
+"Phenol, 2-hexyl- (9CI)",CCCCCCc1ccccc1O,2.137
+"Acetamide, 2-chloro-N-(ethoxymethyl)-N-(2-ethyl-6-methylphenyl)-",CCOCN(C(=O)CCl)c1c(C)cccc1CC,2.548
+"Dibenz(b,f)oxepin-2-acetic acid, 10,11-dihydro-alpha-methyl-11-oxo-",CC(C(=O)O)c1ccc2c(c1)C(=O)Cc1ccccc1O2,3.425
+"9,10-Secocholesta-5,7,10(19)-triene-1,3-diol, (1-alpha,3-beta,5Z,7E)-",C=C1C(=CC=C2CCCC3(C)C2CCC3C(C)CCCC(C)C)CC(O)CC1O,6.0710000000000015
+"Bufa-4,20,22-trienolide, 6-(acetyloxy)-3-(beta-D-glucopyranosyloxy)-8,14-dihydroxy-, (3beta,6beta)- (9CI)",CC(=O)OC1CC2(O)C(CCC3(C)C(c4ccc(=O)oc4)CCC32O)C2(C)CCC(OC3OC(CO)C(O)C(O)C3O)C=C12,6.159
+1-Naphthalenol,Oc1cccc2ccccc12,1.779
+"1H-Indole-3-acetic acid, 1-(4-chlorobenzoyl)-5-methoxy-2-methyl-",COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1,5.17

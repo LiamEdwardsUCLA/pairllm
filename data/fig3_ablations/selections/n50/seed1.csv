@@ -1,0 +1,51 @@
+Drug_ID,Drug,Y
+"Anthranilic acid, 1,5-dimethyl-1-vinyl-4-hexenyl ester (8CI)",C=CC(C)(CCC=C(C)C)OC(=O)c1ccccc1N,1.808
+"2-Benzoxazolinone, 5-bromo-",O=c1[nH]c2cc(Br)ccc2o1,2.309
+"3,5-Dioxa-6-aza-4-phosphaoct-6-ene-8-nitrile, 4-ethoxy-7-phenyl-, 4-sulfide",CCOP(=S)(OCC)ON=C(C#N)c1ccccc1,2.998
+"2H-Pyran-2-carboxaldehyde, 3,4-dihydro-",O=CC1CCC=CO1,1.358
+"1-Butanamine, 4-(2,4-bis(1,1-dimethylpropyl)phenoxy)-",CCC(C)(C)c1ccc(OCCCCN)c(C(C)(C)CC)c1,2.582
+"4,7-Methanobenzotrithiole, hexahydro-",C1CC2CC1C1SSSC21,2.802
+"1H-Isoindole-1,3(2H)-dione, 2-(2,6-dioxo-3-piperidinyl)-",O=C1CCC(N2C(=O)c3ccccc3C2=O)C(=O)N1,3.359
+"Phosphorothioic acid, O,O-dimethyl ester, O-ester with 4-hydroxy-m-anisonitrile",COc1cc(C#N)ccc1OP(=S)(OC)OC,2.004
+"1-Pentanol, 2,2,4-trimethyl-",CC(C)CC(C)(C)CO,1.835
+"Phosphine, tributyl-",CCCCP(CCCC)CCCC,2.431
+"1,2,3,4-Butanetetracarboxylic acid",O=C(O)CC(C(=O)O)C(CC(=O)O)C(=O)O,2.134
+"Carbamic acid, methyl-, m-(1-methylbutyl)phenyl ester",CCCC(C)c1cccc(OC(=O)NC)c1,3.646
+"Phosphorothioic acid, O,O-diethyl S-1,2,2-trichloroethyl ester",CCOP(=O)(OCC)SC(Cl)C(Cl)Cl,5.081
+"2-Norbornene, 1,2,3,4,7,7-hexachloro-5-(dichloromethyl)-",ClC1=C(Cl)C2(Cl)C(C(Cl)Cl)CC1(Cl)C2(Cl)Cl,2.38
+"Phosphorodithioic acid, O,O,S-trimethyl ester",COP(=S)(OC)SC,4.06
+"Benzenamine, 3,4-dichloro-",Nc1ccc(Cl)c(Cl)c1,2.4730000000000003
+"Ethanone, 1-(5,6,7,8-tetrahydro-3,5,5,6,8,8-hexamethyl-2-naphthalenyl)-",CC(=O)c1cc2c(cc1C)C(C)(C)C(C)CC2(C)C,2.656
+"2-Pentenedioic acid, 3-((diethoxyphosphinyl)oxy)-, dimethyl ester",CCOP(=O)(OCC)OC(=CC(=O)OC)CC(=O)OC,5.191
+"4-Piperidineethanol, 1-(3-(6-fluoro-2-(trifluoromethyl)-9H-thioxanthen-9-ylidene)propyl)-, (Z)-",OCCC1CCN(CCC=C2c3ccc(F)cc3Sc3ccc(C(F)(F)F)cc32)CC1,5.479
+"1-Cyclohexene-1,2-dicarboxylic acid, dimethyl ester",COC(=O)C1=C(C(=O)OC)CCCC1,2.452
+"Salicylaldehyde, 5-nitro- (6CI,7CI,8CI)",O=Cc1cc([N+](=O)[O-])ccc1O,2.32
+"2-Propenoic acid, 2-methyl-, 1,2-ethanediylbis(oxy-2,1-ethanediyl) ester",C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,1.422
+"2-Propenoic acid, oxybis(2,1-ethanediyloxy-2,1-ethanediyl) ester",C=CC(=O)OCCOCCOCCOCCOC(=O)C=C,2.57
+"Tartaric acid, diisopropyl ester",CC(C)OC(=O)C(O)C(O)C(=O)OC(C)C,1.545
+"Silane, trichlorovinyl- (8CI)",C=C[Si](Cl)(Cl)Cl,2.101
+"Benzenamine, 2-methoxy-5-nitro-",COc1ccc([N+](=O)[O-])cc1N,1.874
+"Phosphonotrithioic acid, methyl-, dipropyl ester",CCCSP(C)(=S)SCCC,4.103
+"2-Propenethioic acid, 3-(3,4-dimethoxyphenyl)-, O-ethyl ester",CCOC(=S)C=Cc1ccc(OC)c(OC)c1,2.411
+"2-Propanol, 1-amino-",CC(O)CN,1.554
+"Ethane, nitro-",CC[N+](=O)[O-],1.834
+Strychnidin-10-one,O=C1CC2OCC=C3CN4CCC56c7ccccc7N1C5C2C3CC46,5.153
+"Phosphonic acid, (2,2,2-trichloro-1-hydroxyethyl)-, dimethyl ester",COP(=O)(OC)C(O)C(Cl)(Cl)Cl,3.013
+"Benzenepropanenitrile, alpha,3-dichloro-2-methyl- (9CI)",Cc1c(Cl)cccc1CC(Cl)C#N,2.331
+"Acetic acid, (3-(1,1-dimethylethyl)phenoxy)-, propyl ester",CCCOC(=O)COc1cccc(C(C)(C)C)c1,2.143
+"Acetic acid, 2-methylpentyl ester",CCCC(C)COC(C)=O,1.29
+"1,3,2-Dioxathiane, 5,5-dimethyl-, 2,2-dioxide",CC1(C)COS(=O)(=O)OC1,4.221
+"Spirosol-5-en-3-ol, (3beta,22alpha,25R)- (9CI)",CC1CCC2(NC1)OC1CC3C4CC=C5CC(O)CCC5(C)C4CCC3(C)C1C2C,1.92
+"1,3-Dioxa-6-aza-2-silacyclooctane-6-ethanol, 2,2-dimethyl-",C[Si]1(C)OCCN(CCO)CCO1,1.781
+"Carbamodithioic acid, dimethyl-, ethyl ester (9CI)",CCSC(=S)N(C)C,2.434
+"Acetic acid, ((6-phenoxy-4-pyrimidinyl)thio)-, (1-methylethylidene)hydrazide",CC(C)=NNC(=O)CSc1cc(Oc2ccccc2)ncn1,2.469
+"Quinoline, 6-methyl-",Cc1ccc2ncccc2c1,2.056
+"Benzene, 1-methoxy-4-propyl-",CCCc1ccc(OC)cc1,1.533
+"Acrylic acid, 2-butoxyethyl ester (8CI)",C=CC(=O)OCCOCCCC,1.423
+"Benzoic acid, 3-(aminosulfonyl)-4-phenoxy-5-(1-pyrrolidinyl)-",NS(=O)(=O)c1cc(C(=O)O)cc(N2CCCC2)c1Oc1ccccc1,1.811
+"Cyclohexanone, piperonyl-",O=C1CCCCC1Cc1ccc2c(c1)OCO2,1.471
+"Pyrazolo(1,5-a)pyrimidine-6-carboxylic acid, 2-hydroxy-5-methyl-, ethyl ester, O-ester with O,O-diethyl phosphorothioate (8CI)",CCOC(=O)c1cn2nc(OP(=S)(OCC)OCC)cc2nc1C,3.234
+"1,8,9-Trihydroxyanthracene",Oc1cccc2cc3cccc(O)c3c(O)c12,1.847
+"Phosoporothioic acid, O,O-dimethyl S-(1,2-dipropoxycarbonyl)ethyl ester",CCCOC(=O)CC(SP(=O)(OC)OC)C(=O)OCCC,2.978
+Butanedinitrile,N#CCCC#N,2.25
+"Thiazole, 4,5-dihydro-2-(2-propenylthio)- (9CI)",C=CCSC1=NCCS1,3.161

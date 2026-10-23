@@ -1,0 +1,51 @@
+Drug_ID,Drug,Y
+"1H-1,2,4-Triazole-1-ethanol, beta-((4-chlorophenyl)methyl)-alpha-(1,1-dimethylethyl)-, (R*,R*)-(+-)-",CC(C)(C)C(O)C(Cc1ccc(Cl)cc1)n1cncn1,2.354
+"(1R-(1alpha,4Abeta,10aalpha))-1,2,3,4,4a,9,10,10a-octahydro-7-isopropyl-1,4a-dimethylphenanthren-1-carboxylic acid",CC(C)c1ccc2c(c1)CCC1C(C)(C(=O)O)CCCC21C,2.245
+"1H-Isoindole-1,3(2H)-dione, 2-((trichloromethyl)thio)-",O=C1c2ccccc2C(=O)N1SC(Cl)(Cl)Cl,1.595
+Morpholine,C1COCCN1,1.919
+"1,2-Benzenedicarboxylic acid, dicyclohexyl ester",O=C(OC1CCCCC1)c1ccccc1C(=O)OC1CCCCC1,1.042
+"Diazene, bis(3,4-dichlorophenyl)- (9CI)",Clc1ccc(N=Nc2ccc(Cl)c(Cl)c2)cc1Cl,1.806
+"1,2-Ethanediol, 1-(1,4-benzodioxan-2-yl)-, isopropylcarbamate",CC(C)NC(=O)OCC(O)C1COc2ccccc2O1,2.273
+"3H-Pyrazol-3-one, 1,2-dihydro-1,5-dimethyl-2-phenyl-4-(4-quinazolinylamino)-",Cc1c(Nc2ncnc3ccccc23)c(=O)n(-c2ccccc2)n1C,2.9530000000000003
+"alpha,alpha,alpha-Trifluoro-5-methyl-4-isoxazolecarboxy-p-toluidide",Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1,3.0610000000000004
+"Carbamic acid, acetylmethyl-, 2,2-diethyl-1,3-benzodioxol-4-yl ester",CCC1(CC)Oc2cccc(OC(=O)N(C)C(C)=O)c2O1,2.893
+"Propane, 1,2-epoxy-3-phenoxy-",c1ccc(OCC2CO2)cc1,1.591
+"Acetic acid, (2-(2,3,5,6-tetrachlorophenoxy)phenyl)-",O=C(O)Cc1ccccc1Oc1c(Cl)c(Cl)cc(Cl)c1Cl,3.082
+"1H-Inden-5-ol, 2,3-dihydro-",Oc1ccc2c(c1)CCC2,1.616
+2-Hexanone,CCCCC(C)=O,1.587
+"Heptanoic acid, 2-propenyl ester",C=CCOC(=O)CCCCCC,2.532
+"Urea, N-butyl-N-nitroso- (9CI)",CCCCN(N=O)C(N)=O,2.56
+"N-Nitroso(2,2,2-trifluoroethyl)ethylamine",CCN(CC(F)(F)F)N=O,2.211
+"Urea, 1-ethyl-1-nitroso-",CCN(N=O)C(N)=O,2.591
+"Propane, 1,1,3,3-tetraethoxy- (9CI)",CCOC(CC(OCC)OCC)OCC,2.136
+"Thioperoxydicarbonic diamide (((H2N)C(S))2S2), tetramethyl-",CN(C)C(=S)SSC(=S)N(C)C,2.633
+"1-Propanol, 3-methoxy-",COCCCO,1.198
+"Phosphorothioic acid, O,O,O-trimethyl ester",COP(=S)(OC)OC,2.444
+Trimethylenediamine,NCCCN,2.326
+"Acetonitrile, 2,2'-(nitrosoimino)bis- (9CI)",N#CCN(CC#N)N=O,2.882
+"1-Butanamine, N-(3-(trimethoxysilyl)propyl)-",CCCCNCCC[Si](OC)(OC)OC,1.265
+2-Butenedioic acid (2E)-,O=C(O)C=CC(=O)O,1.096
+"2-Butanone, 3,3-dimethyl-1-(methylsulfonyl)-, oxime",CC(C)(C)C(CS(C)(=O)=O)=NO,2.42
+"Octanamide, N-hydroxy- (9CI)",CCCCCCCC(=O)NO,1.173
+"Isocrotononitrile (6CI,7CI)",CC=CC#N,2.604
+"2,4-Hexadienenitrile",CC=CC=CC#N,2.117
+"Ethanamine, 2-hydrazino-N,N-dimethyl-",CN(C)CCNN,1.689
+"4-Heptanamine, 4-propyl-",CCCC(N)(CCC)CCC,3.0660000000000003
+"Tricyclo(3.3.1.1(sup 3,7))decane-1-carboxylic acid, 6-chloro-2-methyl-3-((2-pyridinylamino)carbonyl)-2H-thieno(2,3-e)-1,2-thiazin-4-yl ester, S,S-dioxide",CN1C(C(=O)Nc2ccccn2)=C(OC(=O)C23CC4CC(CC(C4)C2)C3)c2sc(Cl)cc2S1(=O)=O,3.728
+"2-Propen-1-ol, 2-methyl-3-phenyl-",CC(=Cc1ccccc1)CO,1.791
+"Benzamide, N,N-diethyl-2-methyl-",CCN(CC)C(=O)c1ccccc1C,2.199
+"Phosphonothioic acid, ethyl-, O-ethyl O-(2,4,5-trichlorophenyl) ester",CCOP(=S)(CC)Oc1cc(Cl)c(Cl)cc1Cl,4.347
+"Carbamic acid, methyl-, 4-diallylaminophenyl ester",C=CCN(CC=C)c1ccc(OC(=O)NC)cc1,3.4530000000000003
+"Benzoic acid, 2-hydroxy-3,5-dinitro-",O=C(O)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O,2.424
+"Phenol, 4-nitro-",O=[N+]([O-])c1ccc(O)cc1,2.745
+"Acetic acid, dichlorophenoxy-, butyl ester",CCCCOC(=O)C(Cl)(Cl)Oc1ccccc1,2.267
+"Benzoic acid, 4-amino-, ethyl ester",CCOC(=O)c1ccc(N)cc1,1.735
+"Benzylamine, alpha,N-dimethyl-N-nitroso-",CC(c1ccccc1)N(C)N=O,2.437
+"Phosphoramidothioic acid, (1-methylethyl)-, O-ethyl O-(4-methyl-2-nitrophenyl) ester (9CI)",CCOP(=S)(NC(C)C)Oc1ccc(C)cc1[N+](=O)[O-],2.6460000000000004
+"Propanamide, 3-chloro-N-(phenylmethyl)- (9CI)",O=C(CCCl)NCc1ccccc1,1.791
+"Acetamide, 2-chloro-N-(2-ethoxy-6-methylphenyl)-N-(propoxymethyl)-",CCCOCN(C(=O)CCl)c1c(C)cccc1OCC,2.155
+"Ethylenediamine, N-(4-aminophenyl)-",NCCNc1ccc(N)cc1,2.901
+"Ethanol, 2-(2,4-dichlorophenoxy)-, benzoate",O=C(OCCOc1ccc(Cl)cc1Cl)c1ccccc1,2.263
+"N,N'-1,2-Ethanediylbis(n-butyl-4-morpholinecarboxamide)",CCCCN(CCN(CCCC)C(=O)N1CCOCC1)C(=O)N1CCOCC1,3.169
+"1H-Imidazol-2-amine, 1-(2,6-dichlorophenyl)-4-methyl-",Cc1cn(-c2c(Cl)cccc2Cl)c(N)n1,2.986
+"1H-Isoindole-1,3(2H)-dione, 2-(oxiranylmethyl)-",O=C1c2ccccc2C(=O)N1CC1CO1,1.636

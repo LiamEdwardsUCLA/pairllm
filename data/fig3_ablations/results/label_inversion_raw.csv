@@ -1,0 +1,25 @@
+n_label,method,model_type,condition,seed,spearman_rho
+n50,pairwise,LLM (9B),standard,1,0.4895564521257285
+n50,pairwise,LLM (9B),standard,2,0.4193797886717062
+n50,pairwise,LLM (9B),standard,3,0.5012067295957763
+n50,pairwise,LLM (9B),sign_flip,1,-0.006178884553192748
+n50,pairwise,LLM (9B),sign_flip,2,-0.3550446742233217
+n50,pairwise,LLM (9B),sign_flip,3,-0.3705173303065186
+n50,pointwise,LLM (9B),standard,1,0.3974098328968623
+n50,pointwise,LLM (9B),standard,2,0.4004941345331954
+n50,pointwise,LLM (9B),standard,3,0.4007346787137183
+n50,pointwise,LLM (9B),sign_flip,1,-0.09719591639431582
+n50,pointwise,LLM (9B),sign_flip,2,-0.1156396199114059
+n50,pointwise,LLM (9B),sign_flip,3,-0.2691707439052569
+n100,pairwise,LLM (9B),standard,1,0.5028318453569199
+n100,pairwise,LLM (9B),standard,2,0.465366100181848
+n100,pairwise,LLM (9B),standard,3,0.5442114916430145
+n100,pairwise,LLM (9B),sign_flip,1,-0.4807373342697972
+n100,pairwise,LLM (9B),sign_flip,2,-0.469305836249224
+n100,pairwise,LLM (9B),sign_flip,3,-0.5020292910420258
+n100,pointwise,LLM (9B),standard,1,0.4602832810754401
+n100,pointwise,LLM (9B),standard,2,0.4397913143613409
+n100,pointwise,LLM (9B),standard,3,0.4129928171067561
+n100,pointwise,LLM (9B),sign_flip,1,-0.2945150344597687
+n100,pointwise,LLM (9B),sign_flip,2,-0.2511622337377585
+n100,pointwise,LLM (9B),sign_flip,3,-0.4383023210014202

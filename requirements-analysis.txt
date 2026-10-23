@@ -1,0 +1,20 @@
+# CPU-only environment for compound selection, the SoTA baselines, the
+# statistical tests, and figure generation. Needs no GPU and no model weights.
+#
+#   python -m venv .venv-analysis && . .venv-analysis/bin/activate
+#   pip install -r requirements-analysis.txt
+
+rdkit>=2024.3.1
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.4
+matplotlib>=3.8
+umap-learn==0.5.12       # Figure S5A projection — pinned, the embedding is version-sensitive
+xgboost>=2.0             # SoTA baseline
+optuna>=3.6              # SoTA baseline hyperparameter search
+tqdm>=4.66
+
+# MiniMol (SoTA baseline) needs its own environment — its pins conflict with
+# the above. See "SoTA baselines" in the README:
+#   https://github.com/graphcore-research/minimol

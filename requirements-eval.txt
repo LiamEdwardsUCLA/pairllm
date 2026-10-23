@@ -1,0 +1,19 @@
+# Evaluation environment (scripts/eval_pairwise_ranking.py,
+# scripts/eval_pointwise_ranking.py). Must be a SEPARATE environment from
+# requirements-train.txt.
+#
+#   python -m venv .venv-eval && . .venv-eval/bin/activate
+#   pip install -r requirements-eval.txt
+#
+# Version note: Figures 2-4 (Qwen3.5-9B) were run with vllm==0.20.2.
+# Figure 5 (Gemma-4) requires vllm>=0.26 to load the merged multimodal
+# checkpoint — see "Figure 5" in the README. Pin whichever matches the figure
+# you are reproducing.
+
+vllm==0.20.2
+transformers>=4.57
+
+rdkit>=2024.3.1
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0

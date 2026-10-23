@@ -1,0 +1,4 @@
+representation,method,model,spearman_rho
+SMILES+name,pointwise (zero-shot),base (Qwen3.5-9B),0.4022539319154742
+name only,pointwise (zero-shot),base (Qwen3.5-9B),0.3682984955350794
+SMILES only,pointwise (zero-shot),base (Qwen3.5-9B),0.4518337062112464

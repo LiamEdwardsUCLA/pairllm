@@ -1,0 +1,51 @@
+Drug_ID,Drug,Y
+"Benzene, 1,2,4-trichloro-5-((4-chlorophenyl)thio)-",Clc1ccc(Sc2cc(Cl)c(Cl)cc2Cl)cc1,1.913
+"Cholan-24-oic acid, 3,12-dihydroxy-, (3-alpha,5-beta,12-alpha)- (9CI)",CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C,2.594
+"Piperidinium, 1-(2-((hydroxy(octadecyloxy)phosphinyl)oxy)ethyl)-1-methyl-, inner salt",CCCCCCCCCCCCCCCCCCOP(=O)([O-])OCC[N+]1(C)CCCCC1,2.877
+"2-Naphthacenecarboxamide, 7-chloro-4-(dimethylamino)-1,4,4a,5,5a,6,11,12a-octahydro-3,5,10,12,12a-pentahydroxy-6-methylene-1,11-dioxo-, (4S-(4alpha,4aalpha,5alpha,5aalpha,12aalpha))-",C=C1c2c(Cl)ccc(O)c2C(=O)C2=C(O)C3(O)C(=O)C(C(N)=O)=C(O)C(N(C)C)C3C(O)C12,2.377
+"Phosphorochloridothioic acid, cyclic O,O-(2-ethyl-1-propyltrimethylene) ester",CCCC1OP(=S)(Cl)OCC1CC,2.908
+"2H-Indazol-3-amine, 4,5,6,7-tetrahydro-N,2-dimethyl-",CNc1c2c(nn1C)CCCC2,1.951
+"1H-1,2,4-Triazole",c1nc[nH]n1,1.596
+"2,4,6(1H,3H,5H)-Pyrimidinetrione, 5-ethyl-5-(1-methyl-2-butenyl)- (9CI)",CC=CC(C)C1(CC)C(=O)NC(=O)NC1=O,4.05
+"Imidazo(1,2-c)quinazolin-2(3H)-one, 3-((4-nitrophenyl)methylene)-",O=C1N=C2c3ccccc3N=CN2C1=Cc1ccc([N+](=O)[O-])cc1,2.392
+"Benzo(1,2-c:3,4-c':5,6-c'')tris(1,2,5)oxadiazole, 1,4,7-trioxide",[O-][n+]1onc2c1c1no[n+]([O-])c1c1no[n+]([O-])c21,1.942
+Thiophene,c1ccsc1,1.779
+"Thiophene, tetrahydro-, 1,1-dioxide",O=S1(=O)CCCC1,1.7919999999999998
+"Dipyrido(1,2-a:2',1'-c)pyrazinediium, 6,7-dihydro-",c1cc[n+]2c(c1)-c1cccc[n+]1CC2,2.902
+"Cyclotetrasiloxane, octamethyl-",C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,2.285
+"1,3,5,7-Tetraazabicyclo(3.3.1)nonane, 3,7-dinitroso-",O=NN1CN2CN(C1)CN(N=O)C2,2.297
+"9-Thiabicyclo(3.3.1)nonane, 2,6-dichloro-",ClC1CCC2SC1CCC2Cl,2.175
+"2H-(1,3)Benzodioxolo(5,6-a)quinolizine-3-propanenitrile, 1,3,4,6,7,11b-hexahydro-2-oxo-",N#CCCC1CN2CCc3cc4c(cc3C2CC1=O)OCO4,2.326
+"2-Oxetanone, 4-methylene-",C=C1CC(=O)O1,2.176
+Bromoethene (9CI),C=CBr,2.33
+Acetonitrile,CC#N,1.177
+"Silane, ethyltriethoxy-",CCO[Si](CC)(OCC)OCC,1.138
+"Ethane, hexachloro-",ClC(Cl)(Cl)C(Cl)(Cl)Cl,1.725
+"2-Butanone, 3-methyl-3-nitro-, O-(methylcarbamoyl)oxime",CNC(=O)ON=C(C)C(C)(C)[N+](=O)[O-],4.194
+"Phosphorodithioic acid, O,O-dimethyl ester",COP(=S)(S)OC,2.199
+Methanesulphonyl fluoride,CS(=O)(=O)F,4.691
+"Phosphorotrithious acid, trimethyl ester",CSP(SC)SC,3.215
+"Ethane, 1,1'-oxybis(1,1,2,2,2-pentafluoro- (9CI)",FC(F)(F)C(F)(F)OC(F)(F)C(F)(F)F,1.104
+"1-Propanamine, 3,3'-(1,2-ethanediylbis(oxy))bis-",NCCCOCCOCCCN,1.794
+"Ethanol, 2,2',2''-nitrilotris-",OCCN(CCO)CCO,1.271
+"Ethene, 1,1'-sulfinylbis(2,2-dichloro- (9CI)",O=S(C(Cl)=CCl)C(Cl)=CCl,3.505
+"2,6-Octadiene-1,8-diol, 2-(4,8-dimethyl-3,7-nonadienyl)-6-methyl-, (Z,E,E)- (9CI)",CC(C)=CCCC(C)=CCCC(=CCCC(C)=CCO)CO,1.449
+"Butane, 1,1,2,3,4,4-hexachloro-",ClC(Cl)C(Cl)C(Cl)C(Cl)Cl,2.821
+"Ethane, 1,2-diisothiocyanato- (9CI)",S=C=NCCN=C=S,3.11
+"1,2,3-Propanetriamine, N(sup 1),N(sup 3)-bis(2-ethylhexyl)-N(sup 1),2-dimethyl-",CCCCC(CC)CNCC(C)(N)CN(C)CC(CC)CCCC,2.5340000000000003
+"Guanidine, N,N'-bis(1-methylethyl)-",CC(C)NC(=N)NC(C)C,1.6969999999999998
+"Thioperoxydicarbonic diamide (((H2N)C(S)),S2) (9CI)",NC(=S)SSC(N)=S,1.976
+"Ethane, 1,1'-thiobis(2-chloro-",ClCCSCCCl,3.971
+"Phosphonic acid, (2-bromo-3-chloropropyl)-, bis(2-bromo-1-(chloromethyl)ethyl) ester",O=P(CC(Br)CCl)(OC(CCl)CBr)OC(CCl)CBr,2.7060000000000004
+"1-Triazene, 1-(4-bromophenyl)-3,3-dimethyl- (9CI)",CN(C)N=Nc1ccc(Br)cc1,2.732
+"Acetanilide, 2,4'-difluoro-",O=C(CF)Nc1ccc(F)cc1,4.932
+"2-Norbornene, 1,2,3,4,7,7-hexachloro-5-(2,2,3,3-tetrafluorocyclobutyl)-",FC1(F)CC(C2CC3(Cl)C(Cl)=C(Cl)C2(Cl)C3(Cl)Cl)C1(F)F,2.89
+"Isoxazolo(5,4-d)pyrimidine, 6-tert-butyl-3-isopropyl-",CC(C)c1noc2nc(C(C)(C)C)ncc12,1.153
+"Benzenamine, 4-(7,8-dimethoxy-4-methyl-5H-2,3-benzodiazepin-1-yl)- (9CI)",COc1cc2c(cc1OC)C(c1ccc(N)cc1)=NN=C(C)C2,3.383
+"Sulfurous acid, 2-(4-(1,1-dimethylethyl)phenoxy)cyclohexyl 2-propynyl ester",C#CCOS(=O)OC1CCCCC1Oc1ccc(C(C)(C)C)cc1,2.374
+"4,7-Methano-1H-indene, 3a,4,7,7a-tetrahydro-",C1=CC2C3C=CC(C3)C2C1,2.573
+"Adenosine, N-(2,2-diphenylethyl)-",OCC1OC(n2cnc3c(NCC(c4ccccc4)c4ccccc4)ncnc32)C(O)C1O,3.431
+Di(morpholin-4-yl) disulphide,C1CN(SSN2CCOCC2)CCO1,1.74
+"1,3,6-Naphthalenetrisulfonic acid, 7-amino-",Nc1cc2c(S(=O)(=O)O)cc(S(=O)(=O)O)cc2cc1S(=O)(=O)O,1.47
+2-Thiazolidinethione,S=C1NCCS1,2.599
+"4H-1,2,4-Triazole, 4-amino-",Nn1cnnc1,0.7909999999999999

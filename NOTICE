@@ -1,0 +1,58 @@
+Comparative Adaptation Enables Language Models to Rank Molecules with Limited
+Fine-Tuning Data
+
+Copyright 2026 Liam Edwards
+
+This product includes derived data from, and model derivatives of, the
+following third-party sources. Please preserve these notices if you
+redistribute any part of this work.
+
+
+--- Datasets (obtained via Therapeutics Data Commons) ---
+
+Therapeutics Data Commons (TDC). The TDC codebase is MIT-licensed; per-dataset
+terms are as recorded at tdcommons.ai.
+  Huang, K., Fu, T., Gao, W., et al. "Therapeutics Data Commons: Machine
+  Learning Datasets and Tasks for Drug Discovery and Development." NeurIPS
+  Datasets and Benchmarks, 2021.
+  Huang, K., Fu, T., Gao, W., et al. "Artificial intelligence foundation for
+  therapeutic science." Nature Chemical Biology, 2022.
+  Velez-Arce, A., Lin, X., Huang, K., et al. "Signals in the Cells." NeurIPS
+  Workshop on AI for New Drug Modalities, 2024.
+
+AqSolDB (TDC: Solubility_AqSolDB) -- CC0 1.0 Universal
+  Sorkun, M. C., Khetan, A. & Er, S. "AqSolDB, a curated reference set of
+  aqueous solubility and 2D descriptors for a diverse set of compounds."
+  Scientific Data 6, 143 (2019). doi:10.1038/s41597-019-0151-1
+  Deposit: doi:10.7910/DVN/OVHAW8
+
+Acute oral toxicity / LD50 (TDC: LD50_Zhu) -- upstream license Not Specified;
+redistributed by TDC as CC BY 4.0
+  Zhu, H., et al. "Quantitative structure-activity relationship modeling of
+  rat acute toxicity by oral exposure." Chemical Research in Toxicology
+  22(12), 1913-1921 (2009).
+
+Caco-2 permeability (TDC: Caco2_Wang) -- upstream license Not Specified;
+redistributed by TDC as CC BY 4.0
+  Wang, N. N., et al. "ADME Properties Evaluation in Drug Discovery:
+  Prediction of Caco-2 Cell Permeability Using a Combination of NSGA-II and
+  Boosting." Journal of Chemical Information and Modeling 56(4), 763-773
+  (2016).
+
+
+--- Base models ---
+
+Qwen3.5-9B
+  Copyright 2026 Alibaba Cloud. Licensed under the Apache License,
+  Version 2.0. https://huggingface.co/Qwen/Qwen3.5-9B
+  Any LoRA adapters released with this work are modified derivative works of
+  this model.
+
+Gemma 4 12B IT
+  Copyright Google LLC. Licensed under the Apache License, Version 2.0.
+  https://huggingface.co/google/gemma-4-12B-it
+  Any LoRA adapters released with this work are modified derivative works of
+  this model.
+
+Qwen and Gemma are trademarks of their respective owners. Nothing in this
+release is endorsed by or affiliated with Alibaba Cloud or Google.

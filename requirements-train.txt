@@ -1,0 +1,23 @@
+# Training environment (LoRA fine-tuning via scripts/train.py, merging via
+# scripts/merge.py and scripts/fig5/merge_gemma.py).
+#
+# Keep this separate from the evaluation environment: vLLM pins transformers
+# versions that conflict with the TRL version used here.
+#
+#   python -m venv .venv-train && . .venv-train/bin/activate
+#   pip install -r requirements-train.txt
+
+torch>=2.1
+transformers>=4.57
+trl==1.4.0
+peft>=0.14
+accelerate>=1.0
+datasets>=3.0
+bitsandbytes>=0.45      # 8-bit AdamW
+safetensors>=0.4
+
+rdkit>=2024.3.1
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+tqdm>=4.66

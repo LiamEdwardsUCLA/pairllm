@@ -1,0 +1,51 @@
+Drug_ID,Drug,Y
+"Benzeneacetonitrile, alpha-(beta-D-glucopyranosyloxy)- (9CI)",N#CC(OC1OC(CO)C(O)C(O)C1O)c1ccccc1,2.722
+"2-Buten-1-one, 1-(2,6,6-trimethyl-1-cyclohexen-1-yl)-, (E)- (8CI,9CI)",CC=CC(=O)C1=C(C)CCCC1(C)C,1.819
+"Benzenepropanamide, N-(2-methoxyphenyl)-beta-oxo-",COc1ccccc1NC(=O)CC(=O)c1ccccc1,2.226
+"Pyrazine, 2,6-dimethyl-",Cc1cncc(C)n1,2.09
+"2(1H)-Quinolinone, 6-(4-(4-phenyl-1-piperazinyl)butyl)-",O=c1ccc2cc(CCCCN3CCN(c4ccccc4)CC3)ccc2[nH]1,2.859
+"Phosphorodithioic acid, S-(2-bromo-1-(1,3-dihydro-1,3-dioxo-2H-isoindol-2-yl)ethyl) O,O-diethyl ester",CCOP(=S)(OCC)SC(CBr)N1C(=O)c2ccccc2C1=O,4.386
+"1,4:5,8-Dimethanonaphthalen-9-one, 1,2,3,4,10,10-hexachloro-6,7-epoxy-1,4,4a,5,6,7,8,8a-octahydro-",O=C1C2C3OC3C1C1C2C2(Cl)C(Cl)=C(Cl)C1(Cl)C2(Cl)Cl,5.693
+"1,2-Oxathiane, 2,2-dioxide",O=S1(=O)CCCCO1,2.435
+"1,4-Benzenediamine, N,N'-di-2-naphthalenyl-",c1ccc2cc(Nc3ccc(Nc4ccc5ccccc5c4)cc3)ccc2c1,1.904
+"1,4-Dithian-2-one, O-((methylamino)carbonyl)oxime, 4-oxide",CNC(=O)ON=C1CS(=O)CCS1,4.257
+"2H-1,2,4-Benzothiadiazine-7-sulfonamide, 6-chloro-3-(cyclopentylmethyl)-3,4-dihydro-, 1,1-dioxide",NS(=O)(=O)c1cc2c(cc1Cl)NC(CC1CCCC1)NS2(=O)=O,2.58
+Octanoic acid,CCCCCCCC(=O)O,1.156
+"Phosphorodithioic acid, O,O-diethyl S-((propylthio)methyl) ester",CCCSCSP(=S)(OCC)OCC,4.9910000000000005
+"Silane, diethoxydimethyl-",CCO[Si](C)(C)OCC,1.204
+"Phosphorotrithioic acid, O,S,S-triethyl ester",CCOP(=S)(SCC)SCC,1.818
+"2-Propanone, 1,1,1,3,3,3-hexachloro-",O=C(C(Cl)(Cl)Cl)C(Cl)(Cl)Cl,3.043
+"Glycine, N-(phosphonomethyl)-",O=C(O)CNCP(=O)(O)O,1.54
+"Methane, iodo-",CI,3.2710000000000004
+"Ethane, 1,2-dibromo-1,1-dichloro-",ClC(Cl)(Br)CBr,3.0980000000000003
+"Phosphonic acid, (2-chloroethyl)-, monoethyl ester",CCOP(=O)(O)CCCl,2.14
+"1,2,3-Propanetricarboxylic acid, 2-hydroxy-",O=C(O)CC(O)(CC(=O)O)C(=O)O,1.806
+"2-Propenoic acid, 2-methyl-, 1,2-ethanediylbis(oxy-2,1-ethanediyl) ester",C=C(C)C(=O)OCCOCCOCCOC(=O)C(=C)C,1.422
+"2-Butyne-1,4-diol",OCC#CCO,2.914
+Butyraldehyde,CCCC=O,1.462
+"Methanesulfonamide, N,N-bis(2-(methylsulfonyloxy)ethyl)-",CS(=O)(=O)OCCN(CCOS(C)(=O)=O)S(C)(=O)=O,3.054
+"Phosphoric acid, tris(2-chloro-1-methylethyl) ester",CC(CCl)OP(=O)(OC(C)CCl)OC(C)CCl,2.339
+"Ethanol, 2,2'-oxybis-, dinitrate",O=[N+]([O-])OCCOCCO[N+](=O)[O-],2.416
+"Phosphonic acid, methyl-, dimethyl ester",COP(C)(=O)OC,1.179
+"Ethanesulfonyl fluoride, 2-chloro-",O=S(=O)(F)CCCl,3.467
+"2-Butenedinitrile, (Z)-",N#CC=CC#N,3.29
+"4,7,10,13,16,19-Docosahexaenoic acid",CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)O,1.517
+"Maleic anhydride, dihydroxy-, dibutyrate",CCCC(=O)OC1=C(OC(=O)CCC)C(=O)OC1=O,1.256
+"Benzenemethanol, alpha-(1-aminoethyl)-3-hydroxy-, (R-(R*,S*))- ( 9CI)",CC(N)C(O)c1cccc(O)c1,2.843
+"1-Triazene, 3,3-diethyl-1-phenyl- (9CI)",CCN(CC)N=Nc1ccccc1,2.533
+"Benzamide, 4-(3,3-dimethyl-1-triazenyl)- (9CI)",CN(C)N=Nc1ccc(C(N)=O)cc1,3.551
+"Phenol, 3-amino-",Nc1cccc(O)c1,2.072
+"Benzoic acid, 2-hydroxy-5-sulfo-",O=C(O)c1cc(S(=O)(=O)O)ccc1O,1.95
+"Acetamide, 2-chloro-N-methyl-N-(2-methyl-6-(3-methylbutoxy)phenyl)-",Cc1cccc(OCCC(C)C)c1N(C)C(=O)CCl,1.934
+"1,2-Propanediol, 3-phenoxy-, diacetate",CC(=O)OCC(COc1ccccc1)OC(C)=O,1.682
+"Benzoic acid, 2-methoxy-, methyl ester",COC(=O)c1ccccc1OC,1.641
+"Phosphoric acid, 4-aminophenyl diethyl ester (9CI)",CCOP(=O)(OCC)Oc1ccc(N)cc1,2.39
+"Ether, alpha-(bromomethyl)-m-chlorobenzyl 2-ethylhexyl",CCCCC(CC)COC(CBr)c1cccc(Cl)c1,3.143
+"Ether, alpha-(bromomethyl)-p-isopropylbenzyl pentyl",CCCCCOC(CBr)c1ccc(C(C)C)cc1,3.0980000000000003
+"Thiocyanic acid, (2-benzothiazolylthio)methyl ester, 30%",N#CSCSc1nc2ccccc2s1,2.545
+"9-Acridinepropanamine, 9,10-dihydro-2-chloro-N,N-dimethyl- (9CI)",CN(C)CCCC1c2ccccc2Nc2ccc(Cl)cc21,2.9
+"Ethanol, 2-(2,4-dichlorophenoxy)-, benzoate",O=C(OCCOc1ccc(Cl)cc1Cl)c1ccccc1,2.263
+1-Ethenyl-2-pyrrolidinone (9CI),C=CN1CCCC1=O,1.879
+"6-Phthalazinecarboxylic acid, 3,4-dihydro-1-(hydroxymethyl)-5,7-dimethyl-4-oxo-, ethyl ester",CCOC(=O)c1c(C)cc2c(CO)n[nH]c(=O)c2c1C,2.198
+Lupanine,O=C1CCCC2C3CC(CN12)C1CCCCN1C3,2.237
+"1,3,6-Naphthalenetrisulfonic acid, 7-amino-",Nc1cc2c(S(=O)(=O)O)cc(S(=O)(=O)O)cc2cc1S(=O)(=O)O,1.47

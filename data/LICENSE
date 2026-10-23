@@ -1,0 +1,67 @@
+# Licensing of data in this directory
+
+This directory holds two kinds of file, with different terms:
+
+1. **Compound-level files** — the scaffold splits and the selected training
+   subsets. These carry `Drug_ID`, `Drug` (SMILES) and `Y` columns derived from
+   Therapeutics Data Commons (TDC) datasets, with labels rescaled to an integer
+   0–1000 range. Terms follow the originating dataset.
+2. **Result files** — the seed-level metrics produced by this project's own
+   runs. These are our own measurements and carry no upstream data.
+
+Attribution for every source below is in the `NOTICE` file at the repository
+root. Please preserve it if you redistribute any of this.
+
+---
+
+## Compound-level files (upstream-derived)
+
+### CC0 1.0 Universal
+
+    fig2_scaling/splits/solubility/
+
+Derived from AqSolDB (Sorkun, Khetan & Er, 2019), deposited at Harvard
+Dataverse under doi:10.7910/DVN/OVHAW8 with a license of CC0 1.0 Universal.
+These derived splits are released under CC0 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+### CC BY 4.0
+
+    fig2_scaling/splits/ld50/
+    fig2_scaling/splits/caco2/
+    fig6_subset_selection/selections/        (LD50-derived)
+    fig3_ablations/selections/               (LD50-derived)
+
+The LD50 files derive from TDC `LD50_Zhu`, originating with Zhu et al. (2009).
+The Caco-2 files derive from TDC `Caco2_Wang`, originating with Wang et al.
+(2016). For both, TDC records the upstream dataset license as "Not Specified"
+and redistributes the data as CC BY 4.0. We follow that position and release
+these derived files under CC BY 4.0 on the same basis — see the note below.
+https://creativecommons.org/licenses/by/4.0/
+
+## Result files (this project's own measurements)
+
+Released under CC0 1.0 Universal:
+
+    fig2_scaling/scaling_results.csv
+    fig2_scaling/zero_shot_baseline.csv
+    fig6_subset_selection/bars/
+    fig6_subset_selection/mmd_sweep/
+    fig3_ablations/results/
+    fig3_ablations/translation/
+    figS1_gemma4/
+
+---
+
+## Note on the LD50 and Caco-2 terms
+
+TDC lists the upstream license for both `LD50_Zhu` and `Caco2_Wang` as "Not
+Specified", and then redistributes them as CC BY 4.0. That CC BY 4.0 is TDC's
+redistribution position rather than a grant traceable to the originating
+authors: neither originating paper is open-access and neither has a public
+repository carrying an explicit data license.
+
+We redistribute on the same basis TDC does, and state the uncertainty here
+rather than representing CC BY 4.0 as settled. If you need a firmer basis for
+these two datasets than TDC's assertion, contact the TDC maintainers or the
+originating authors.

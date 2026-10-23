@@ -1,0 +1,51 @@
+Drug_ID,Drug,Y
+"Benzene, 1,2,4-trichloro-5-((4-chlorophenyl)thio)-",Clc1ccc(Sc2cc(Cl)c(Cl)cc2Cl)cc1,1.913
+"Erythromycin, cyclic 11,12-carbonate",CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C2OC(=O)OC12C,2.117
+Pyrrolidine,C1CCNC1,2.375
+"1,4:5,8-Dimethanonaphthalene, 1,2,3,4,10,10-hexachloro-1,4,4a,5,8,8a-hexahydro-, endo,exo-",ClC1=C(Cl)C2(Cl)C3C4C=CC(C4)C3C1(Cl)C2(Cl)Cl,3.971
+"1H-1,2,4-Triazole",c1nc[nH]n1,1.596
+"4,7-Methanoindan, 3a,4,5,6,7,7a-hexahydro-1,2:5,6-diepoxy-",C1C2OC2C2C1C1CC2C2OC12,2.893
+"Thiazolidine, 3-nitroso-",O=NN1CCSC1,1.7819999999999998
+"Anthra(9,1,2-cde)benzo(rst)pentaphene-5,10-dione, dihydroxy-",O=C1c2ccccc2-c2ccc3c4c(O)c(O)c5c6c(ccc(c7ccc1c2c73)c64)C(=O)c1ccccc1-5,2.367
+"1H-Isoindole-1,3(2H)-dione, 2-methyl-5-nitro-",CN1C(=O)c2ccc([N+](=O)[O-])cc2C1=O,1.867
+"Benzo(1,2-c:3,4-c':5,6-c'')tris(1,2,5)oxadiazole, 1,4,7-trioxide",[O-][n+]1onc2c1c1no[n+]([O-])c1c1no[n+]([O-])c21,1.942
+Thiophene,c1ccsc1,1.779
+"3-Thiophenamine, tetrahydro-, 1,1-dioxide",NC1CCS(=O)(=O)C1,0.878
+"Guanidine, ((4-oxo-2,5-cyclohexadien-1-ylidene)amino)-, thiosemicarbazone",N=C(N)NN=C1C=CC(=NNC(N)=S)C=C1,2.5
+"5-Norbornene-2,3-dicarboximide, 5-(alpha-hydroxy-alpha-2-pyridylbenzyl)-7-(alpha-2-pyridylbenzylidene)-N-(2-pyridylmethyl)-, endo-",O=C1C2C3C=C(C(O)(c4ccccc4)c4ccccn4)C(C3=C(c3ccccc3)c3ccccn3)C2C(=O)N1Cc1ccccn1,5.064
+"2,4,5,6(1H,3H)-Pyrimidinetetrone",O=C1NC(=O)C(=O)C(=O)N1,1.436
+"Cyclotetrasiloxane, octamethyl-",C[Si]1(C)O[Si](C)(C)O[Si](C)(C)O[Si](C)(C)O1,2.285
+"Methanediamine, 1-(2-furanyl)-N,N'-bis(2-furanylmethylene)- (9CI)",C(=NC(N=Cc1ccco1)c1ccco1)c1ccco1,2.827
+"1H-Indene-3-acetic acid, 5-fluoro-2-methyl-1-((4-(methylsulfinyl)phenyl)methylene)-, (Z)-",CC1=C(CC(=O)O)c2cc(F)ccc2C1=Cc1ccc(S(C)=O)cc1,3.13
+"1,2,4-Oxadiazolidine-3,5-dione, 2-(3,4-dichlorophenyl)-4-methyl-",Cn1c(=O)on(-c2ccc(Cl)c(Cl)c2)c1=O,2.526
+"2H-1,3,5-Thiadiazine-2-thione, 3,3'-(1,2-ethanediyl)bis(tetrahydro-4,6-dimethyl-",CC1NC(C)N(CCN2C(=S)SC(C)NC2C)C(=S)S1,1.846
+"Pyrido(2,3-d)pyrimidine-2,4-diamine, 6-((2,5-dimethoxyphenyl)methyl)-5-methyl-",COc1ccc(OC)c(Cc2cnc3nc(N)nc(N)c3c2C)c1,2.445
+"Acetic acid, (2-(2,3,5,6-tetrachlorophenoxy)phenyl)-",O=C(O)Cc1ccccc1Oc1c(Cl)c(Cl)cc(Cl)c1Cl,3.082
+"Cyclohexene, 3-methyl-6-(1-methylethylidene)- (9CI)",CC1=CCC(=C(C)C)CC1,1.492
+"Polymyxin E(sub 1), 7-L-theonine-",CCC(C)CCCCC(=O)NC(CCN)C(=O)NC(C(=O)NC(CCN)C(=O)NC1CCNC(=O)C(C(C)O)NC(=O)C(CCN)NC(=O)C(CCN)NC(=O)C(C(C)O)NC(=O)C(CC(C)C)NC(=O)C(CCN)NC1=O)C(C)O,3.104
+"Methane, tribromo-",BrC(Br)Br,2.343
+2-Propynyl ether,C#CCOCC#C,2.242
+"N,N,N',N',1-Pentamethyltrimethylenediamine",CC(CCN(C)C)N(C)C,2.2840000000000003
+"1-Propene, 1-chloro-",CC=CCl,1.594
+"Silane, pentyltriethoxy-",CCCCC[Si](OCC)(OCC)OCC,1.069
+"Ethanol, 2-(hexyloxy)-",CCCCCCOCCO,1.995
+"1,3-Butadiene, 1,1,2,3,4,4-hexachloro-",ClC(Cl)=C(Cl)C(Cl)=C(Cl)Cl,3.462
+"Phosphorodithioic acid, O,O-dimethyl S-(N-methoxymethylcarbamoylmethyl) ester",COCNC(=O)CSP(=S)(OC)OC,2.636
+"Pentanedinitrile, hexafluoro- (9CI)",N#CC(F)(F)C(F)(F)C(F)(F)C#N,1.891
+"Methane, tetranitro-",O=[N+]([O-])C([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-],3.178
+"Ethanol, 2,2'-thiobis-",OCCSCCO,1.267
+Carbon disulphide,S=C=S,1.378
+"Phosphoramidodithioic acid, O,S-dimethyl ester",COP(N)(=S)SC,2.798
+"Dihexylamine, 6,6'-diamino- (6CI,7CI,8CI)",NCCCCCCNCCCCCCN,2.68
+"2,6-Octadienoic acid, 3,7-dimethyl-",CC(C)=CCCC(C)=CC(=O)O,1.658
+"Ethene, 1,1'-thiobis-",C=CSC=C,2.705
+"Ethane, 1-bromo-2-fluoro-",FCCBr,4.405
+"Ethane, 1,1'-sulfinylbis(1,2,2-trichloro- (9CI)",O=S(C(Cl)C(Cl)Cl)C(Cl)C(Cl)Cl,3.62
+"Propane, 1,1,1,3-tetrachloro-",ClCCC(Cl)(Cl)Cl,2.57
+"2-Propanol, 2-((1-dimethylethyl)azo)-",CC(C)(C)N=NC(C)(C)O,2.642
+"2,4-Dioxaspiro(5.5)undec-8-ene, 3-(3-cyclohexen-1-yl)-",C1=CCC(C2OCC3(CC=CCC3)CO2)CC1,1.655
+"Phenol, pentabromo-",Oc1c(Br)c(Br)c(Br)c(Br)c1Br,3.388
+"Acetamidine, 2-(4-chlorophenyl)-N,N'-dipropyl-2-ethoxy-",CCCN=C(NCCC)C(OCC)c1ccc(Cl)cc1,3.8
+"Acetic acid, 2,4,5-trichlorophenoxy-, 2-butoxypropyl ester",CCCCOC(C)COC(=O)COc1cc(Cl)c(Cl)cc1Cl,2.869
+"L-Valine, N-((2,4-dichlorophenoxy)acetyl)- (9CI)",CC(C)C(NC(=O)COc1ccc(Cl)cc1Cl)C(=O)O,2.63
+"9H-Purin-6-amine, N,9-dicyclopropyl-",c1nc(NC2CC2)c2ncn(C3CC3)c2n1,3.219

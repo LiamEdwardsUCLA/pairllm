@@ -1,0 +1,121 @@
+n_label,selector,method,seed,spearman_rho
+n200,Random,pairwise,1,0.4259999897329509
+n200,Random,pairwise,2,0.4629455067504508
+n200,Random,pairwise,3,0.5750480375653108
+n200,Random,pairwise,4,0.4634932200903321
+n200,Random,pairwise,5,0.5436643729791535
+n200,Random,pairwise,6,0.4465319932936833
+n200,Random,pairwise,7,0.5891786641149748
+n200,Random,pairwise,8,0.5143672946041893
+n200,Random,pairwise,9,0.4957828866018252
+n200,Random,pairwise,10,0.5064656410538834
+n200,Random,pointwise,1,0.4320238018660874
+n200,Random,pointwise,2,0.4499757260269709
+n200,Random,pointwise,3,0.4492577931956283
+n200,Random,pointwise,4,0.5233760404248248
+n200,Random,pointwise,5,0.5490750619433743
+n200,MaxMin,pairwise,1,0.4279996380267137
+n200,MaxMin,pairwise,2,0.4962910279692863
+n200,MaxMin,pairwise,3,0.344198636603013
+n200,MaxMin,pairwise,4,0.5089094231333439
+n200,MaxMin,pairwise,5,0.4327325362445896
+n200,MaxMin,pointwise,1,0.1734526801845877
+n200,MaxMin,pointwise,2,0.02534042651779311
+n200,MaxMin,pointwise,3,0.3471800711996499
+n200,MaxMin,pointwise,4,0.2946473899774825
+n200,MaxMin,pointwise,5,0.2724812346845774
+n200,k-medoids,pairwise,1,0.4209257679214596
+n200,k-medoids,pairwise,2,0.3723021871968673
+n200,k-medoids,pairwise,3,0.424600098222651
+n200,k-medoids,pairwise,4,0.4537517894608479
+n200,k-medoids,pairwise,5,0.3733870825359843
+n200,k-medoids,pointwise,1,0.3237766082793165
+n200,k-medoids,pointwise,2,0.5086258174938574
+n200,k-medoids,pointwise,3,0.4228306149599997
+n200,k-medoids,pointwise,4,0.4734807886051972
+n200,k-medoids,pointwise,5,0.4519117615967444
+n200,Kernel herding,pairwise,1,0.5443999500489084
+n200,Kernel herding,pairwise,2,0.4604357360747346
+n200,Kernel herding,pairwise,3,0.5188328617922652
+n200,Kernel herding,pairwise,4,0.5457211120292196
+n200,Kernel herding,pairwise,5,0.5290393327862828
+n200,Kernel herding,pairwise,6,0.4037323480143553
+n200,Kernel herding,pairwise,7,0.5166162868365032
+n200,Kernel herding,pairwise,8,0.4091927115493978
+n200,Kernel herding,pairwise,9,0.3998049979334628
+n200,Kernel herding,pairwise,10,0.5105215898241473
+n200,Kernel herding,pointwise,1,0.4594647404890999
+n200,Kernel herding,pointwise,2,0.4612512392119685
+n200,Kernel herding,pointwise,3,0.3883482116164119
+n200,Kernel herding,pointwise,4,0.5414930512356475
+n200,Kernel herding,pointwise,5,0.4870350861126951
+n50,Random,pairwise,1,0.5193108809609397
+n50,Random,pairwise,2,0.4622348484643054
+n50,Random,pairwise,3,0.4877439520922526
+n50,Random,pairwise,4,0.4479436185052071
+n50,Random,pairwise,5,0.4462764740163348
+n50,Random,pairwise,6,0.4717648030091882
+n50,Random,pairwise,7,0.4778388406049293
+n50,Random,pairwise,8,0.4633222916184966
+n50,Random,pairwise,9,0.491054639865445
+n50,Random,pairwise,10,0.4309603831207226
+n50,Random,pairwise,11,0.4571307962169501
+n50,Random,pairwise,12,0.4685914092038005
+n50,Random,pairwise,13,0.5402786928430869
+n50,Random,pairwise,14,0.4594670943224819
+n50,Random,pairwise,15,0.4698091811829096
+n50,Random,pairwise,16,0.4127680152846855
+n50,Random,pairwise,17,0.4700202298441213
+n50,Random,pairwise,18,0.3653500621398518
+n50,Random,pairwise,19,0.4673082340126433
+n50,Random,pairwise,20,0.4881380197321359
+n50,Random,pointwise,1,0.3994460517389711
+n50,Random,pointwise,2,0.3932056640186968
+n50,Random,pointwise,3,0.403204812938447
+n50,Random,pointwise,4,0.3960149335404313
+n50,Random,pointwise,5,0.4035166771006009
+n50,MaxMin,pairwise,1,0.4393019222399069
+n50,MaxMin,pairwise,2,0.3676677357357755
+n50,MaxMin,pairwise,3,0.4514224676483783
+n50,MaxMin,pairwise,4,0.3508502235495871
+n50,MaxMin,pairwise,5,0.433240935924447
+n50,MaxMin,pointwise,1,0.404619829754551
+n50,MaxMin,pointwise,2,0.399491148836571
+n50,MaxMin,pointwise,3,0.3965035374150345
+n50,MaxMin,pointwise,4,0.4041581140877338
+n50,MaxMin,pointwise,5,0.4041118580347631
+n50,k-medoids,pairwise,1,0.4382805643168247
+n50,k-medoids,pairwise,2,0.4255857031083803
+n50,k-medoids,pairwise,3,-0.02343009024419895
+n50,k-medoids,pairwise,4,0.4466960123735089
+n50,k-medoids,pairwise,5,0.4128096964986148
+n50,k-medoids,pointwise,1,0.3961404753454105
+n50,k-medoids,pointwise,2,0.3981449427534755
+n50,k-medoids,pointwise,3,0.3939131175262603
+n50,k-medoids,pointwise,4,0.4052907952440327
+n50,k-medoids,pointwise,5,0.4032168455909703
+n50,Kernel herding,pairwise,1,0.5130173800383009
+n50,Kernel herding,pairwise,2,0.5029637482149288
+n50,Kernel herding,pairwise,3,0.4964899619649488
+n50,Kernel herding,pairwise,4,0.4853326095896948
+n50,Kernel herding,pairwise,5,0.4488369984320139
+n50,Kernel herding,pairwise,6,0.4796201851900337
+n50,Kernel herding,pairwise,7,0.4693899178633947
+n50,Kernel herding,pairwise,8,0.480532643066914
+n50,Kernel herding,pairwise,9,0.4364511160167726
+n50,Kernel herding,pairwise,10,0.5098780611688715
+n50,Kernel herding,pairwise,11,0.5156289852657538
+n50,Kernel herding,pairwise,12,0.433459007337785
+n50,Kernel herding,pairwise,13,0.4115932866992646
+n50,Kernel herding,pairwise,14,0.423011595920727
+n50,Kernel herding,pairwise,15,0.4850989818233404
+n50,Kernel herding,pairwise,16,0.4755177959393161
+n50,Kernel herding,pairwise,17,0.4271170273109606
+n50,Kernel herding,pairwise,18,0.5216009207055491
+n50,Kernel herding,pairwise,19,0.4704231432898053
+n50,Kernel herding,pairwise,20,0.4356958161451348
+n50,Kernel herding,pointwise,1,0.3988199155032915
+n50,Kernel herding,pointwise,2,0.4003603425813642
+n50,Kernel herding,pointwise,3,0.3949688260347233
+n50,Kernel herding,pointwise,4,0.4033681040976778
+n50,Kernel herding,pointwise,5,0.3999047753812322

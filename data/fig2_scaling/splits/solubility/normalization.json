@@ -1,0 +1,7 @@
+{
+  "y_min": -12.0605,
+  "y_max": 1.9675126996,
+  "dataset": "Solubility_AqSolDB",
+  "split": "scaffold",
+  "seed": 1
+}

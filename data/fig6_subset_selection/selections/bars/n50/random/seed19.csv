@@ -1,0 +1,51 @@
+Drug_ID,Drug,Y
+"1,4:7,10-Dimethanodibenzo(a,e)cyclooctane, 1,2,3,4,7,8,9,10,13,13,14,14-dodecachloro-1,4,4a,5,6,6a,7,10,10a,11,12,12a-dodecahydro-",ClC1=C(Cl)C2(Cl)C3CCC4C(CCC3C1(Cl)C2(Cl)Cl)C1(Cl)C(Cl)=C(Cl)C4(Cl)C1(Cl)Cl,1.4169999999999998
+"2,6-Methano-3-benzazocin-8-ol, 1,2,3,4,5,6-hexahydro-6,11-dimethyl-3-(2-phenylethyl)-",CC1C2Cc3ccc(O)cc3C1(C)CCN2CCc1ccccc1,3.553
+Cyclohexenecarboxaldehyde,O=CC1=CCCCC1,2.021
+"Phosphorodithioic acid, S-((1,3-dihydro-1,3-dioxo-2H-isoindol-2-yl)methyl) O,O-diethyl ester",CCOP(=S)(OCC)SCN1C(=O)c2ccccc2C1=O,3.905
+"4-Pyridinecarboxylic acid, ((3-hydroxy-5-(hydroxymethyl)-2-methyl-4-pyridinyl)methylene)hydrazide",Cc1ncc(CO)c(C=NNC(=O)c2ccncc2)c1O,1.758
+"1,4-Naphthalenedione",O=C1C=CC(=O)c2ccccc21,2.92
+"Urea, 1,1-dimethyl-3-(p-(p-methoxyphenoxy)phenyl)-",COc1ccc(Oc2ccc(NC(=O)N(C)C)cc2)cc1,2.457
+"7-Octen-2-ol, 2-methyl-6-methylene-",C=CC(=C)CCCC(C)(C)O,1.464
+3-Pentanol,CCC(O)CC,1.673
+Propionaldehyde,CCC=O,1.615
+"Ethanol, 2-((2-ethylhexyl)oxy)-",CCCCC(CC)COCCO,1.753
+"Phosphonic acid, propyl-, ethyl ester (7CI)",CCCP(=O)(O)OCC,1.82
+"Phosphoric acid, dimethyl ester, ester with 2-chloro-N,N-diethyl-3-hydroxycrotonamide",CCN(CC)C(=O)C(Cl)=C(C)OP(=O)(OC)OC,4.574
+"2-Butenoic acid, ethyl ester, (E)- (9CI)",CC=CC(=O)OCC,1.58
+"Ethanol, 2-ethoxy-",CCOCCO,1.6269999999999998
+"Ethanol, 2-chloro-, phosphite (3:1)",ClCCOP(OCCCl)OCCCl,3.431
+"Guanidine, N-methyl-N'-nitro-N-nitroso-",CN(N=O)C(=N)N[N+](=O)[O-],3.213
+"Formamide, N-methyl-",CNC=O,1.169
+"1-Propanol, 3-methoxy-",COCCCO,1.198
+"Ethanol, 2-(methoxyethylthio)-",COCCSCCO,1.02
+"Phosphoric acid, 2,2-dichloroethenyl dimethyl ester",COP(=O)(OC)OC=C(Cl)Cl,3.946
+"Phosphorodithioic acid, O,O-dimethyl S-carboxymethyl ester",COP(=S)(OC)SCC(=O)O,1.937
+Decanedioic acid,O=C(O)CCCCCCCCC(=O)O,1.774
+"Acetic acid, mercapto-, 1,2-ethanediyl ester",O=C(CS)OCCOC(=O)CS,2.804
+"1-Propanol, 2-chloro-, phosphate (3:1)",CC(Cl)COP(=O)(OCC(C)Cl)OCC(C)Cl,2.508
+"Thiocyanic acid, ethylene ester (6CI,7CI,8CI)",N#CSCCSC#N,3.46
+"Ethane, 1-bromo-2-fluoro-",FCCBr,4.405
+"Phosphine oxide, tripropyl-",CCCP(=O)(CCC)CCC,2.097
+"1-Propanol, 3-mercapto-",OCCCS,2.9
+"Ethanamine, N-ethyl-1-methoxy-N-nitroso-",CCN(N=O)C(C)OC,2.121
+"Benzeneethanol, 4-(1-methylethyl)-",CC(C)c1ccc(CCO)cc1,1.96
+"Benzenamine, 4-methyl-",Cc1ccc(N)cc1,2.213
+"Phenol, 4-methyl-3-(1-methylpropyl)-, methylcarbamate (9CI)",CCC(C)c1cc(OC(=O)NC)ccc1C,3.801
+"Phosphonic acid, ethyl-, methyl p-nitrophenyl ester",CCP(=O)(OC)Oc1ccc([N+](=O)[O-])cc1,5.212999999999999
+"Phosphonothioic acid, ethyl-, O-(2-chloroethyl) ester, O-ester with p-hydroxybenzonitrile",CCP(=S)(OCCCl)Oc1ccc(C#N)cc1,5.1610000000000005
+"Carbamic acid, ((4-aminophenyl)sulfonyl)-, methyl ester (9CI)",COC(=O)NS(=O)(=O)c1ccc(N)cc1,2.061
+"Benzenamine, 2-methoxy-5-nitro-",COc1ccc([N+](=O)[O-])cc1N,1.874
+"Phosphorodithioic acid, S-((3,4-dichlorophenylthio)methyl) O,O-dimethyl ester",COP(=S)(OC)SCSc1ccc(Cl)c(Cl)c1,3.201
+Benzenamine,Nc1ccccc1,2.571
+"1,3-Benzenedisulfonamide, 4,5-dichloro-",NS(=O)(=O)c1cc(Cl)c(Cl)c(S(N)(=O)=O)c1,2.07
+"Acetic acid, phenoxy-",O=C(O)COc1ccccc1,1.614
+"Phosphorothioic acid, O,O-diethyl O-(2-nitrophenyl) ester",CCOP(=S)(OCC)Oc1ccccc1[N+](=O)[O-],4.066
+"Sulfamide, N-(2,4-dichlorobenzyl)-N-methyl-",CN(Cc1ccc(Cl)cc1Cl)S(N)(=O)=O,2.059
+"4-Heptanone, 3-(phenylmethyl)-",CCCC(=O)C(CC)Cc1ccccc1,1.6669999999999998
+"2-Propenoic acid, 3-phenyl-, 2-propenyl ester",C=CCOC(=O)C=Cc1ccccc1,2.093
+"Benzene, 1-chloro-2-ethenyl- (9CI)",C=Cc1ccccc1Cl,1.527
+"Phosphorothioic acid, O,O-dimethyl ester, O-ester with 2-chloro-N,N-diethyl-4-hydroxybenzenesulfonamide",CCN(CC)S(=O)(=O)c1ccc(OP(=S)(OC)OC)cc1Cl,3.89
+"Benzylamine, N-(2-bromoethyl)-2-ethoxy-5-nitro-",CCOc1ccc([N+](=O)[O-])cc1CNCCBr,4.084
+"1(2H)-Quinazolineacetic acid, 3,4-dihydro-3-((4-bromo-2-fluorophenyl)methyl)-7-chloro-2,4-dioxo-",O=C(O)Cn1c(=O)n(Cc2ccc(Br)cc2F)c(=O)c2ccc(Cl)cc21,2.017
+"Malonic acid, ((1-(p-chlorobenzoyl)-5-methoxy-2-methyl-3-indolyl)acetyl)-, dimethyl ester",COC(=O)C(C(=O)Cc1c(C)n(C(=O)c2ccc(Cl)cc2)c2ccc(OC)cc12)C(=O)OC,3.3560000000000003
